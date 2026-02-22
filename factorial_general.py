@@ -21,3 +21,5 @@ def factorial(n, d):
         return p.subs(x, n)
 d=7 #floating point error ruins higher degree approximations due to chaotic behavior of large matrices, for now 7 is recommended
 print(factorial(0.5, d))
+d=20 #avoids floating point
+print(factorial(sympy.S('1/2'), 8).evalf())
