@@ -1,1 +1,8 @@
 One time when i used derivatives as a shortcut to solving inequalities in 8th grade, my teacher caught me and forced me to write the intended draft on the board for everyone to see
+
+
+One time i tricked people into playing a game where you start with a number like 1000, and then you flip a coin 15 times, if its heads your number gets +90%, otherwise your number "only" gets -70%
+Then if at the end you get a number bigger than before you win
+Basically they wouldn't notice that the game is exponential and think that 90% is bigger than 70%, so they agreed
+Then we would bet some money, and when they were constantly losing they just blamed their bad luck
+It was funny, but i felt bad and just gave them their money back
