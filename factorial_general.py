@@ -19,5 +19,5 @@ def factorial(n, d):
             r.append(ll-rr)
         p=f.subs(sympy.solve(r, co))
         return p.subs(x, n)
-d=8
+d=7 #floating point error ruins higher degree approximations due to chaotic behavior of large matrices, for now 7 is recommended
 print(factorial(0.5, d))
